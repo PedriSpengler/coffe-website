@@ -214,7 +214,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(../assets/cafehome.jpg) no-repeat;
+    background: url('assets/cafehome.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
